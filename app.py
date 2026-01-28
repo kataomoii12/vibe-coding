@@ -91,7 +91,7 @@ music_data = {
         "🌿 차분함": ["비오는 거리 - 이승훈", "나비와 고양이 - 볼빨간사춘기"]
     },
     "장르": {
-        "🎸 밴드": ["Big Void - 실리카겔", "Get Back - Touched" , "월드투어 - 해밍웨이,보수동쿨러"],
+        "🎸 밴드": ["Big Void - 실리카겔", "Get Back - Touched" , "월드투어 - 해서웨이,보수동쿨러"],
         "🎤 힙합": ["Public Enemy - Lil moshpit, Sik-k", "skid mark - sikkoo", "25 - Kid Milli"],
         "🎹 재즈": ["Fly Me To The Moon", "Take Five"],
         "✨ K-POP": ["Seven - 정국", "LOVE DIVE - IVE", "Hype Boy - NewJeans"]
